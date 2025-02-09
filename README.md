@@ -26,5 +26,5 @@ A complete e-commerce website with HTML, CSS and JAVASCRIPT ,also using PHP and 
 7.) Now Fork this project into "C:\xampp\htdocs" , i.e , wherever your XAMPP is located. <br>
 8.) After all these setup, hit url "localhost/ecommerce" on a new tab in your browser to see the project running. <br>
 
-### Project Collaborators ->
+### Project Collaborator ->
 Srijan Saswat --- https://github.com/ss9180
