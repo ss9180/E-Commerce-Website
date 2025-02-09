@@ -41,5 +41,11 @@ A fully functional e-commerce website built using **HTML, CSS, JavaScript, PHP, 
   ```sh
   cd C:\xampp\htdocs
   git clone https://github.com/ss9180/E-Commerce-Website
+  Or manually download and place the project in:  
+**C:\xampp\htdocs\ecommerce**
+
+### Step 6: Run the Project
+- Open a browser and go to:
+- 
 
 
