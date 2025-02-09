@@ -1,5 +1,5 @@
 # E-commerce Website
-### A fully functional e-commerce website built using HTML, CSS, JavaScript, PHP, and MySQLi for database management.
+### A fully functional e-commerce website built using HTML, CSS, JavaScript, PHP, and MySQLi for database management.<br>
 
 ## Features
 🏷️ Responsive Navigation Bar with toggle effect
