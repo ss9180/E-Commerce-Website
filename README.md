@@ -1,4 +1,4 @@
-# E-commerce Website 
+# E-commerce Website  
 
 A fully functional e-commerce website built using **HTML, CSS, JavaScript, PHP, and MySQLi** for database management.
 
